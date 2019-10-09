@@ -2,9 +2,9 @@
 
 ## Index
 1. [Project Idea](#project_idea)
-      1.[Stakeholder](#stakeholder)
-2. [User Research Methods](#user_research_methods)
-3. [Task Descriptons](#task_descriptions) 
+2. [Stakeholder](#stakeholder)
+3. [User Research Methods](#user_research_methods)
+4. [Task Descriptons](#task_descriptions) 
 
 
 ### Project idea <a name = "project_idea"></a>
