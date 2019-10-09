@@ -1,4 +1,3 @@
-# HealthEat
 
 ## Index
 1. [Project Idea](#project_idea)
@@ -17,5 +16,6 @@ Every year, Canadians throw away 2.2 million tonnes of food that could be eaten.
 4.Local Government (Food waste, garbage collection).<br />
 5.Health System, Insurance Companies (Healthier people = Less doctor visits).<br />
 6.Database owners (application requires a large amount of memory).<br />
+
 
 
