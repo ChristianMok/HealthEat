@@ -3,6 +3,12 @@
 1. [Project Idea](#project_idea)
 2. [Stakeholder](#stakeholder)
 3. [User Research Methods](#user_research_methods)
+    1. [Survery](#survery)
+        1. [Survery Transcript](#surverytranscript)
+        2. [Survery Summary](#surverysummary)
+    2. [Extreme Interview via personas](#extremeinterivewviapersonas)
+        1. [Personas](#personas)
+        2. [Extreme Interview transcript](#extremeinterviewtranscript)
 4. [Task Descriptons](#task_descriptions) 
 
 
@@ -24,6 +30,10 @@ Every year, Canadians throw away 2.2 million tonnes of food that could be eaten.
 
 ## User Research Methods <a name = "user_research_methods"></a>
 
+### Survery <a name = "survery"></a>
+
+
+### 
 
 ## Task Description <a name ="task_descriptions"></a> 
 
