@@ -30,11 +30,11 @@ Every year, Canadians throw away 2.2 million tonnes of food that could be eaten.
 ### TASK 1: CREATING A PROFILE + INSTALLING THE APP
 #### From the systems perspective is routine but it’s an infrequent but important task for the user. Simple task
 
-⋅⋅⋅Margot is a 70 year old woman who has been diagnosed with diabetes. Her daughter, who has used HealthEat for a couple of years (successful app here!) recommends it to her. She wants to live to see her grandchildren grow up so she is motivated to adapt to new times.
+   Margot is a 70 year old woman who has been diagnosed with diabetes. Her daughter, who has used HealthEat for a couple of years (successful app here!) recommends it to her. She wants to live to see her grandchildren grow up so she is motivated to adapt to new times.
 
-⋅⋅⋅She takes her smartphone (she’s been using it for one year now and she successfully messages with her grandchildren via whatsapp) and goes to the App Store, where she types HealthEat, the first suggestion is in fact, the app her daughter described her. She reads carefully all the Terms & Conditions (she doesn’t understand the younglings of today… never reading a contract *sigh*). It seems although the app asks for some personal information it’s save, she doesn't want Mark Zuckerberg to look how much she eats…
+   She takes her smartphone (she’s been using it for one year now and she successfully messages with her grandchildren via whatsapp) and goes to the App Store, where she types HealthEat, the first suggestion is in fact, the app her daughter described her. She reads carefully all the Terms & Conditions (she doesn’t understand the younglings of today… never reading a contract *sigh*). It seems although the app asks for some personal information it’s save, she doesn't want Mark Zuckerberg to look how much she eats…
 
-⋅⋅⋅When she gets inside the app, the app greets her (it has accessed her personal information via Health so it knows that Margot has diabetes). The app confirms all her information (name, phone, health issues, alergies…) are correct and asks her where she likes to buy things: “WholeFoods of course”. The app asks her if she has a rewards card, which she does (this will connect the app to the info of her shopping cart: elements, expiry date, nutritious info…).
+   When she gets inside the app, the app greets her (it has accessed her personal information via Health so it knows that Margot has diabetes). The app confirms all her information (name, phone, health issues, alergies…) are correct and asks her where she likes to buy things: “WholeFoods of course”. The app asks her if she has a rewards card, which she does (this will connect the app to the info of her shopping cart: elements, expiry date, nutritious info…).
 The app asks her to put the card in the rectangle of the screen which she happily does (those were a lot of numbers to type…). 
 
 
