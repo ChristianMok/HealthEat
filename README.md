@@ -8,7 +8,8 @@
         2. [Survery Summary](#surverysummary)
     2. [Extreme Interview via personas](#extremeinterivewviapersonas)
         1. [Personas](#personas)
-        2. [Extreme Interview transcript](#extremeinterviewtranscript)
+        2. [Extreme Interview Transcript](#extremeinterviewtranscript)
+        3. [Extreme Interview Summary](#extremeinterviewsummary)
 4. [Task Descriptons](#task_descriptions)
     1. [Task 1](#task1)
     2. [Task 2](#task2)
@@ -39,7 +40,23 @@ Every year, Canadians throw away 2.2 million tonnes of food that could be eaten.
 ### Survery <a name = "survery"></a>
 
 
-### 
+#### Survery Transcript <a name = "surverytranscript"></a>
+
+#### Survery Summary <a name = "surverysummary"></a>
+During our survey process, we received responses from a wide range of people, both in age and occupation. Our survey captured mostly Student and Full-Time employees between 18-25 and 41-65 years of age. Our survey found that a large majority (>80%) of respondents own a smartphone, are interested in increasing the healthiness of their diet, and do not currently use any method of tracking their eating. These results show that there are relevant end users for our application. Our survey also found that the main reason that people stop using food tracking apps is because entering each item individually is too much work. Users also stated that it is difficult to get into the routine of tracking food and very easy to fall out of the routine.
+Our survey found that respondents will follow recipes about half the time they are cooking, and more than half are interested in trying new recipes. This result shows that the recipe feature will be useful in our application. 
+FInally, we saw that most people (>50%) are not checking their refrigerators, pantries and cupboards for expired food weekly. This may cause some food items to go bad unnoticed. In our survey we found that ⅓ of respondents threw away more than 10%, on average, of the food they purchased.
+
+### Extreme Interview via personas <a name = "extremeinterivewviapersonas"></a>
+
+#### Personas <a name = "personas"></a>
+
+#### Extreme Interview Transcript <a name = "extremeinterviewtranscript"></a>
+
+#### Extreme Interview Summary  <a name = "extremeinterviewsummary"></a>
+What we found valuable from Valerie’s interview is that people may use more than one application to track their diet since some apps have unique features that the user likes compared to another but is lacking another important feature. This means that it is crucial that our application can combine the positives of the different apps so users can have one app that meets all their needs. This would allow the user to be more satisfied and accomplish their tasks more quickly.
+	Valerie also really values the feature of our app that will remind her when she has food that is about to go bad. Valerie likes that our app can directly link up with a users grocery rewards cards to track what has been purchased saving her plenty of time that she would spend to scan or input everything. Lastly, Valerie and Hubbert both think the apps capability to let them know of discounts on their favorite food items is unique and a very good idea to help them save money. Hubbert also really likes the feature that allows him to order his food right on the app so he doesn't have to leave his house.
+
 
 ## Task Description <a name ="task_descriptions"></a> 
 
