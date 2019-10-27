@@ -167,8 +167,8 @@ On a monday evening Nick goes to the Superstore near his house and purchases a v
 When Nick opens HealthEat and goes to the ‘Suggested Recipes’ section there is a list of recipes he could make with what is in his fridge with the recipes using broccoli at the top. Nick chooses the first recipe, chicken broccoli stir fry, and starts cooking! Nick then rates the recipe as 5 stars since it was easy to make, healthy and tasted delicious.
 
 ## Sketching<a name = "sketching"></a>
-<object data="https://github.com/ChristianMok/481TEAM/blob/NathanSehn-Deliverable-3/AllSketchImages-PNG.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/ChristianMok/481TEAM/blob/NathanSehn-Deliverable-3/AllSketchImages-PNG.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/ChristianMok/481TEAM/blob/NathanSehn-Deliverable-3/AllSketchImages-PNG.pdf">Download PDF</a>.</p>
+<object data="https://github.com/ChristianMok/481TEAM/blob/master/AllSketchImages-PNG.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/ChristianMok/481TEAM/blob/master/AllSketchImages-PNG.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/ChristianMok/481TEAM/blob/master/AllSketchImages-PNG.pdf">Download PDF</a>.</p>
     </embed>
 </object>
