@@ -133,4 +133,5 @@ When Nick opens HealthEat and goes to the ‘Suggested Recipes’ section there 
 <li><a href = "https://christianmok.github.io/HealthEat/Phase four/CPSC481 Stage 4 presentation.pdf"> View our presentation(PDF)</a></li>
 <li><a href = "https://christianmok.github.io/HealthEat/Phase four/Heuristic Evaluation Report.pdf"> View our Final Report (PDF)</a></li>
 </ul>
+
 ## Bibliography <a name = "bibliography"></a>
