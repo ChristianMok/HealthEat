@@ -18,6 +18,10 @@
     5. [Task 5](#task5)
     6. [Task 6](#task6)
 5. [Sketching](#sketching)
+6.[Low Fidelity Prototype](#low_fidelity_prototype)
+7.[High Fidelity Prototype](#high_fidelity_prototype)
+8.[Final prototype and Presentation](#final_prototype_and_presentation)
+9.[Bibliography](#bibliography)
 
 
 ## Project idea <a name = "project_idea"></a>
@@ -168,3 +172,15 @@ When Nick opens HealthEat and goes to the ‘Suggested Recipes’ section there 
 
 ## Sketching<a name = "sketching"></a>
 <a herf = "https://christianmok.github.io/HealthEat/AllSketchImages-PNG.pdf"> View our sketches(PDF)</a>
+
+
+
+
+## Low Fidelity prototype <a name = "low_fidelity_prototype"></a>
+
+
+## High Fidelity prototype <a name = "High_fidelity_prototype"></a>
+
+## Final prototype and Presentation <a name = "final_prototype_and_presentation"></a>
+
+## Bibliography <a name = "bibliography"></a>
