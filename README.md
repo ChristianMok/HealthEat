@@ -16,11 +16,10 @@
     4. [Task 4](#task4)
     5. [Task 5](#task5)
     6. [Task 6](#task6)
-5. [Sketching](#sketching)
-6. [Low Fidelity Prototype and Presentation](#low_fidelity_prototype)
-7. [High Fidelity Prototype and Presentation](#high_fidelity_prototype)
-8. [Final prototype and Presentation](#final_prototype_and_presentation)
-9. [Bibliography](#bibliography)
+5. [Low Fidelity Prototype and Presentation](#low_fidelity_prototype)
+6. [High Fidelity Prototype and Presentation](#high_fidelity_prototype)
+7. [Final prototype and Presentation](#final_prototype_and_presentation)
+8. [Bibliography](#bibliography)
 
 
 ## Project idea <a name = "project_idea"></a>
@@ -101,14 +100,13 @@ Nick is a 33 year old male and a full time employee at a mechanics shop. He has 
 On a monday evening Nick goes to the Superstore near his house and purchases a variety of his favorite food items. Nick has his Superstore rewards card hooked up to his HealthEat app and when he checks his phone after getting home he sees a notification from HealthEat reading “Hi Nick! We noticed you recently bought some groceries and would like to remind you of the unused Broccoli in your fridge! Here are some recipes for you:” 
 When Nick opens HealthEat and goes to the ‘Suggested Recipes’ section there is a list of recipes he could make with what is in his fridge with the recipes using broccoli at the top. Nick chooses the first recipe, chicken broccoli stir fry, and starts cooking! Nick then rates the recipe as 5 stars since it was easy to make, healthy and tasted delicious.
 
-## Sketching<a name = "sketching"></a>
-<a href = "https://christianmok.github.io/HealthEat/Phase three/Sketchs.pdf"> View our sketches(PDF)</a>
 
 
 ## Low Fidelity prototype and Presentation <a name = "low_fidelity_prototype"></a>
 <ul>
 <li><a href = "https://christianmok.github.io/HealthEat/Phase three/HealthEat-softcopy.pdf"> View our low fidelity prototype (PDF)</a></li>
 <li><a href = "https://christianmok.github.io/HealthEat/Phase three/Stage 3 Deliverable Powerpoint.pdf"> View our presentation(PDF)</a></li>
+<li><a href = "https://christianmok.github.io/HealthEat/Phase three/Sketchs.pdf"> View our sketches(PDF)</a></li>
 <li> Here is the Low Fidelity prototype video<br/>
 	<video width = "500" height = "500" controls>
 	<source src = "https://christianmok.github.io/HealthEat/Phase three/video.mp4" type = "video/mp4">
