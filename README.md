@@ -135,3 +135,4 @@ When Nick opens HealthEat and goes to the ‘Suggested Recipes’ section there 
 </ul>
 
 ## Bibliography <a name = "bibliography"></a>
+All the pictures are found online 
