@@ -8,7 +8,7 @@
     2. [Extreme Interview via personas](#extremeinterivewviapersonas)
         1. [Extreme Interview Summary](#extremeinterviewsummary)
     3. [Survey Transcript & Personas & Extreme Interview Transcript](#survey_transcript_and_personas)
-4. [Task Descriptons](#task_descriptions)
+4. [Task Descriptions](#task_descriptions)
     1. [Task 1](#task1)
     2. [Task 2](#task2)
     3. [Task 3](#task3)
