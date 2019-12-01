@@ -4,12 +4,12 @@
 2. [Stakeholder](#stakeholder)
 3. [User Research Methods](#user_research_methods)
     1. [Survery](#survery)
-        1. [Survery Transcript](#surverytranscript)
-        2. [Survery Summary](#surverysummary)
+        1. [Survery Summary](#surverysummary)
     2. [Extreme Interview via personas](#extremeinterivewviapersonas)
-        1. [Personas](#personas)
-        2. [Extreme Interview Transcript](#extremeinterviewtranscript)
-        3. [Extreme Interview Summary](#extremeinterviewsummary)
+        1. [Extreme Interview Transcript](#extremeinterviewtranscript)
+        2. [Extreme Interview Summary](#extremeinterviewsummary)
+    3. [Appendix](#appendix)
+    	1. [Survery Transcript and Personas](#survery_transcript_and_personas)
 4. [Task Descriptons](#task_descriptions)
     1. [Task 1](#task1)
     2. [Task 2](#task2)
@@ -44,20 +44,14 @@ Every year, Canadians throw away 2.2 million tonnes of food that could be eaten.
 
 ### Survery <a name = "survery"></a>
 
-#### 1.Survery Transcript <a name = "surverytranscript"></a>
-
-
-
-#### 2.Survery Summary <a name = "surverysummary"></a>
+#### 1.Survery Summary <a name = "surverysummary"></a>
 During our survey process, we received responses from a wide range of people, both in age and occupation. Our survey captured mostly Student and Full-Time employees between 18-25 and 41-65 years of age. Our survey found that a large majority (>80%) of respondents own a smartphone, are interested in increasing the healthiness of their diet, and do not currently use any method of tracking their eating. These results show that there are relevant end users for our application. Our survey also found that the main reason that people stop using food tracking apps is because entering each item individually is too much work. Users also stated that it is difficult to get into the routine of tracking food and very easy to fall out of the routine.
 Our survey found that respondents will follow recipes about half the time they are cooking, and more than half are interested in trying new recipes. This result shows that the recipe feature will be useful in our application. 
 FInally, we saw that most people (>50%) are not checking their refrigerators, pantries and cupboards for expired food weekly. This may cause some food items to go bad unnoticed. In our survey we found that ⅓ of respondents threw away more than 10%, on average, of the food they purchased.
 
 ### Extreme Interview via personas <a name = "extremeinterivewviapersonas"></a>
 
-#### 1.Personas <a name = "personas"></a>
-
-#### 2.Extreme Interview Transcript <a name = "extremeinterviewtranscript"></a>
+#### 1.Extreme Interview Transcript <a name = "extremeinterviewtranscript"></a>
 ##### 1.- Give us some background about who you are
 
 V.G.: I am 24 years old… I recently finished my degree to become a personal trainer and am always looking for ways to improve my wellbeing. I love to exercise, meditate, and always look for ways to improve my lifestyle.
@@ -122,10 +116,14 @@ V.G.: Yes, I would use this app! An app that can combine all the useful features
 
 H.L.: Only for the discounts.
 
-#### 3.Extreme Interview Summary  <a name = "extremeinterviewsummary"></a>
+#### 2.Extreme Interview Summary  <a name = "extremeinterviewsummary"></a>
 What we found valuable from Valerie’s interview is that people may use more than one application to track their diet since some apps have unique features that the user likes compared to another but is lacking another important feature. This means that it is crucial that our application can combine the positives of the different apps so users can have one app that meets all their needs. This would allow the user to be more satisfied and accomplish their tasks more quickly.
 	Valerie also really values the feature of our app that will remind her when she has food that is about to go bad. Valerie likes that our app can directly link up with a users grocery rewards cards to track what has been purchased saving her plenty of time that she would spend to scan or input everything. Lastly, Valerie and Hubbert both think the apps capability to let them know of discounts on their favorite food items is unique and a very good idea to help them save money. Hubbert also really likes the feature that allows him to order his food right on the app so he doesn't have to leave his house.
 
+
+### Appendix <a name = "appendix"></a>
+#### 1.Survery Transcript and Personas <a name = "survery_transcript_and_personas"></a>
+<a href = "https://christianmok.github.io/HealthEat/Phase two/Survery and Personas.pdf	"> View the Survery Transcript and Personas(PDF)</a>
 
 ## Task Description <a name ="task_descriptions"></a> 
 
@@ -185,8 +183,21 @@ When Nick opens HealthEat and goes to the ‘Suggested Recipes’ section there 
 </ul>
 
 ## High Fidelity prototype and Presentation <a name = "High_fidelity_prototype"></a>
-
+<ul>
+<li><a href = "https://xd.adobe.com/view/5acd7885-b8ab-49f0-628a-a44f48c481b1-2cfc/"> View our initial high fidelity prototyp e</a></li>
+<li><a href = "https://xd.adobe.com/view/91e34a63-01b3-42d0-7b65-82af686d62fa-e7d2/"> View our final high fidelity prototyp e</a></li>
+<li><a href = "https://christianmok.github.io/HealthEat/Phase four/CPSC481 Stage 4 presentation.pdf"> View our presentation(PDF)</a></li>
+<li><a href = "https://christianmok.github.io/HealthEat/Phase four/Heuristic Evaluation Report.pdf"> View our Heuristic Evaluation Report (PDF)</a></li>
+<li> Here is the High Fidelity prototype video<br/>
+	<video width = "500" height = "500" controls>
+	<source src = "https://christianmok.github.io/HealthEat/Phase four/Hi-fi video demo (1).mp4" type = "video/mp4">
+	</video></li>
+</ul>
 
 ## Final prototype and Presentation <a name = "final_prototype_and_presentation"></a>
-
+<ul>
+<li><a href = "https://xd.adobe.com/view/91e34a63-01b3-42d0-7b65-82af686d62fa-e7d2/"> View our final high fidelity prototyp e</a></li>
+<li><a href = "https://christianmok.github.io/HealthEat/Phase four/CPSC481 Stage 4 presentation.pdf"> View our presentation(PDF)</a></li>
+<li><a href = "https://christianmok.github.io/HealthEat/Phase four/Heuristic Evaluation Report.pdf"> View our Final Report (PDF)</a></li>
+</ul>
 ## Bibliography <a name = "bibliography"></a>
