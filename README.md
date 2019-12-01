@@ -7,8 +7,7 @@
         1. [Survery Summary](#surverysummary)
     2. [Extreme Interview via personas](#extremeinterivewviapersonas)
         1. [Extreme Interview Summary](#extremeinterviewsummary)
-    3. [Appendix](#appendix)
-    	1. [Survery Transcript & Personas & Extreme Interview Transcript](#survery_transcript_and_personas)
+    3. [Survery Transcript & Personas & Extreme Interview Transcript](#survery_transcript_and_personas)
 4. [Task Descriptons](#task_descriptions)
     1. [Task 1](#task1)
     2. [Task 2](#task2)
@@ -53,8 +52,7 @@ What we found valuable from Valerie’s interview is that people may use more th
 	Valerie also really values the feature of our app that will remind her when she has food that is about to go bad. Valerie likes that our app can directly link up with a users grocery rewards cards to track what has been purchased saving her plenty of time that she would spend to scan or input everything. Lastly, Valerie and Hubbert both think the apps capability to let them know of discounts on their favorite food items is unique and a very good idea to help them save money. Hubbert also really likes the feature that allows him to order his food right on the app so he doesn't have to leave his house.
 
 
-### Appendix <a name = "appendix"></a>
-#### 1.Survery Transcript and Personas <a name = "survery_transcript_and_personas"></a>
+### 1.Survery Transcript and Personas <a name = "survery_transcript_and_personas"></a>
 <a href = "https://christianmok.github.io/HealthEat/Phase two/Survery and Personas.pdf	"> View the Survery Transcript and Personas(PDF)</a>
 
 ## Task Description <a name ="task_descriptions"></a> 
