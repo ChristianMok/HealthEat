@@ -18,8 +18,8 @@
     5. [Task 5](#task5)
     6. [Task 6](#task6)
 5. [Sketching](#sketching)
-6. [Low Fidelity Prototype](#low_fidelity_prototype)
-7. [High Fidelity Prototype](#high_fidelity_prototype)
+6. [Low Fidelity Prototype and Presentation](#low_fidelity_prototype)
+7. [High Fidelity Prototype and Presentation](#high_fidelity_prototype)
 8. [Final prototype and Presentation](#final_prototype_and_presentation)
 9. [Bibliography](#bibliography)
 
@@ -171,15 +171,21 @@ On a monday evening Nick goes to the Superstore near his house and purchases a v
 When Nick opens HealthEat and goes to the ‘Suggested Recipes’ section there is a list of recipes he could make with what is in his fridge with the recipes using broccoli at the top. Nick chooses the first recipe, chicken broccoli stir fry, and starts cooking! Nick then rates the recipe as 5 stars since it was easy to make, healthy and tasted delicious.
 
 ## Sketching<a name = "sketching"></a>
-<a href = "https://christianmok.github.io/HealthEat/AllSketchImages-PNG.pdf"> View our sketches(PDF)</a>
+<a href = "https://christianmok.github.io/HealthEat/Phase three/Sketches.pdf"> View our sketches(PDF)</a>
 
 
+## Low Fidelity prototype and Presentation <a name = "low_fidelity_prototype"></a>
+<ul>
+<li><a href = "https://christianmok.github.io/HealthEat/Phase three/HealthEat-softcopy.pdf"> View our low fidelity prototype (PDF)</a></li>
+<li><a href = "https://christianmok.github.io/HealthEat/Phase three/Stage 3 Deliverable Powerpoint.pdf"> View our presentation(PDF)</a></li>
+<li> View the Low Fidelity prototype video<br/>
+	<video width "500" height = "667" controls>
+	<source src = "https://christianmok.github.io/HealthEat/Phase three/video.mp4" type = "video/mp4">
+	</video></li>
+</ul>
 
 
-## Low Fidelity prototype <a name = "low_fidelity_prototype"></a>
-
-
-## High Fidelity prototype <a name = "High_fidelity_prototype"></a>
+## High Fidelity prototype and Presentation <a name = "High_fidelity_prototype"></a>
 
 ## Final prototype and Presentation <a name = "final_prototype_and_presentation"></a>
 
