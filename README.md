@@ -3,11 +3,11 @@
 1. [Project Idea](#project_idea)
 2. [Stakeholder](#stakeholder)
 3. [User Research Methods](#user_research_methods)
-    1. [Survery](#survery)
-        1. [Survery Summary](#surverysummary)
+    1. [Survey](#survey)
+        1. [Survey Summary](#surveysummary)
     2. [Extreme Interview via personas](#extremeinterivewviapersonas)
         1. [Extreme Interview Summary](#extremeinterviewsummary)
-    3. [Survery Transcript & Personas & Extreme Interview Transcript](#survery_transcript_and_personas)
+    3. [Survey Transcript & Personas & Extreme Interview Transcript](#survey_transcript_and_personas)
 4. [Task Descriptons](#task_descriptions)
     1. [Task 1](#task1)
     2. [Task 2](#task2)
@@ -39,9 +39,9 @@ Every year, Canadians throw away 2.2 million tonnes of food that could be eaten.
 
 ## User Research Methods <a name = "user_research_methods"></a>
 
-### Survery <a name = "survery"></a>
+### Survey <a name = "survey"></a>
 
-#### 1.Survery Summary <a name = "surverysummary"></a>
+#### 1.Survey Summary <a name = "surveysummary"></a>
 During our survey process, we received responses from a wide range of people, both in age and occupation. Our survey captured mostly Student and Full-Time employees between 18-25 and 41-65 years of age. Our survey found that a large majority (>80%) of respondents own a smartphone, are interested in increasing the healthiness of their diet, and do not currently use any method of tracking their eating. These results show that there are relevant end users for our application. Our survey also found that the main reason that people stop using food tracking apps is because entering each item individually is too much work. Users also stated that it is difficult to get into the routine of tracking food and very easy to fall out of the routine.
 Our survey found that respondents will follow recipes about half the time they are cooking, and more than half are interested in trying new recipes. This result shows that the recipe feature will be useful in our application. 
 FInally, we saw that most people (>50%) are not checking their refrigerators, pantries and cupboards for expired food weekly. This may cause some food items to go bad unnoticed. In our survey we found that ⅓ of respondents threw away more than 10%, on average, of the food they purchased.
@@ -52,8 +52,8 @@ What we found valuable from Valerie’s interview is that people may use more th
 	Valerie also really values the feature of our app that will remind her when she has food that is about to go bad. Valerie likes that our app can directly link up with a users grocery rewards cards to track what has been purchased saving her plenty of time that she would spend to scan or input everything. Lastly, Valerie and Hubbert both think the apps capability to let them know of discounts on their favorite food items is unique and a very good idea to help them save money. Hubbert also really likes the feature that allows him to order his food right on the app so he doesn't have to leave his house.
 
 
-### 1.Survery Transcript and Personas <a name = "survery_transcript_and_personas"></a>
-<a href = "https://christianmok.github.io/HealthEat/Phase two/Survery and Personas.pdf	"> View the Survery Transcript and Personas(PDF)</a>
+### 1.Survey Transcript and Personas <a name = "survey_transcript_and_personas"></a>
+<a href = "https://christianmok.github.io/HealthEat/Phase two/Survey and Personas.pdf	"> View the Survey Transcript and Personas(PDF)</a>
 
 ## Task Description <a name ="task_descriptions"></a> 
 
