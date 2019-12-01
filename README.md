@@ -6,10 +6,9 @@
     1. [Survery](#survery)
         1. [Survery Summary](#surverysummary)
     2. [Extreme Interview via personas](#extremeinterivewviapersonas)
-        1. [Extreme Interview Transcript](#extremeinterviewtranscript)
-        2. [Extreme Interview Summary](#extremeinterviewsummary)
+        1. [Extreme Interview Summary](#extremeinterviewsummary)
     3. [Appendix](#appendix)
-    	1. [Survery Transcript and Personas](#survery_transcript_and_personas)
+    	1. [Survery Transcript & Personas & Extreme Interview Transcript](#survery_transcript_and_personas)
 4. [Task Descriptons](#task_descriptions)
     1. [Task 1](#task1)
     2. [Task 2](#task2)
@@ -50,73 +49,7 @@ Our survey found that respondents will follow recipes about half the time they a
 FInally, we saw that most people (>50%) are not checking their refrigerators, pantries and cupboards for expired food weekly. This may cause some food items to go bad unnoticed. In our survey we found that ⅓ of respondents threw away more than 10%, on average, of the food they purchased.
 
 ### Extreme Interview via personas <a name = "extremeinterivewviapersonas"></a>
-
-#### 1.Extreme Interview Transcript <a name = "extremeinterviewtranscript"></a>
-##### 1.- Give us some background about who you are
-
-V.G.: I am 24 years old… I recently finished my degree to become a personal trainer and am always looking for ways to improve my wellbeing. I love to exercise, meditate, and always look for ways to improve my lifestyle.
-
-H.L.: I’ve been a security guard since I was 23... I like driving my segway and eating donuts...Yeah, I suppose that’s it...
-
-##### 2.- Do you have a smartphone?
-
-V.G.: Yes! How would I keep track of everything if not. I also need one for my work, I do most of my communications from my smartphone.
-
-H.L.: Nope! I communicate with my beautiful mother with my last generation walkie-talkie.
- 
-##### 3.- We are developing an app to be a healthier person and waste less food. Would you like to improve the healthiness of your diet by using our app?
-
-V.G.: My diet is already as healthy as it can be but if your app makes my life easier I would be all for it!
-
-H.L.: Would I need to stop eating donuts? Probably... Nah then. My health is perfect the way it is.
-
-##### 4.- Our app can notify you when there is a discount for your food preferences. Do you like this feature?
-
-V.G.: Yes! Thats sounds like a great feature… organic items are usually more expensive so discounts would be great! 
-
-H.L.: Donuts too? Sure... Now we are talking! How does it work!?
-
-##### 5.- Do you currently use any method or applications to track your diet?
-
-V.G.: Yes! I use my AppleWatch,  MyFitnessPal, www.myfridgefood.com, SmartGym, WaterMinder, AutoSleep, MyRealFood, and Yuka. All of these have different pros and cons which is why I use a large variety of apps.
-
-H.L.: I spend all my reward points in donuts! [...] Oh, you are speaking about tracking my diet, well, the only thing I know is that there is a box of donuts in it every day, one of the big ones eh!
-
-##### 6.- Are you interested in a specific functionality of the app?
-
-V.G.: I would love if this app could combine everything I use. Also it’s important to me that I wouldn’t have to manually enter everything I consume, it would save lots of time and energy.
-
-H.L.: That the supermarket brings the food to my doorstep without me stopping to play to the PS4. And of course... the discounts in donuts!
-
-##### 7.- Do you find yourself wasting food because it goes bad?
-
-V.G.: Occasionally I will have to throw out old fruits or vegetables because they go bad so quickly! Also I only eat two meals a day so sometimes I buy too much food. It’s hard to not waste healthy food as they lack preservatives that lets junk food sit in your house for ages!
-
-H.L.: I only waste the center of the donuts.
-
-##### 8(For H.L.).- Do you find it would be helpful if an application that can provide a list of stores that you can buy your donuts from?
-
-H.L.: YEP! The closer the shop the better you know! The segway doesn’t get too far...I can’t wait to taste all those different icings...
-
-
-##### 8(For V.G.).- Do you find it would be helpful if an application that can notify you that your food will go bad in a short time? 
-
-V.G.: Yes! That would be very helpful... sometimes I will buy new groceries and forget that there was some old vegetables in my fridge about to go bad.
-
-
-##### 9.- Do you plan your meal before shopping? Will it be helpful if the application can help you to build your meal plan and shopping list or order your food? 
-
-V.G.: Yes! I will often be thinking about my next meal or two when I go to buy groceries. If I can plan out my weeks meals in the app and have a shopping list prepared for me or even the food ordered for me that would be amazing! It would save so much time and effort.
-
-H.L.: Nah. Next question.
-
-##### 10.- Are you willing to use this application? Is there any functionality missing for this application? (optional)
-
-V.G.: Yes, I would use this app! An app that can combine all the useful features of the apps I already use would be very helpful and I love that the app will suggest recipes that use up food that is about to expire. The feature that orders the food for you for the week is a very good idea.
-
-H.L.: Only for the discounts.
-
-#### 2.Extreme Interview Summary  <a name = "extremeinterviewsummary"></a>
+#### 1.Extreme Interview Summary  <a name = "extremeinterviewsummary"></a>
 What we found valuable from Valerie’s interview is that people may use more than one application to track their diet since some apps have unique features that the user likes compared to another but is lacking another important feature. This means that it is crucial that our application can combine the positives of the different apps so users can have one app that meets all their needs. This would allow the user to be more satisfied and accomplish their tasks more quickly.
 	Valerie also really values the feature of our app that will remind her when she has food that is about to go bad. Valerie likes that our app can directly link up with a users grocery rewards cards to track what has been purchased saving her plenty of time that she would spend to scan or input everything. Lastly, Valerie and Hubbert both think the apps capability to let them know of discounts on their favorite food items is unique and a very good idea to help them save money. Hubbert also really likes the feature that allows him to order his food right on the app so he doesn't have to leave his house.
 
