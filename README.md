@@ -117,8 +117,8 @@ When Nick opens HealthEat and goes to the ‘Suggested Recipes’ section there 
 
 ## High Fidelity prototype and Presentation <a name = "High_fidelity_prototype"></a>
 <ul>
-<li><a href = "https://xd.adobe.com/view/5acd7885-b8ab-49f0-628a-a44f48c481b1-2cfc/"> View our initial high fidelity prototyp e</a></li>
-<li><a href = "https://xd.adobe.com/view/91e34a63-01b3-42d0-7b65-82af686d62fa-e7d2/"> View our final high fidelity prototyp e</a></li>
+<li><a href = "https://xd.adobe.com/view/5acd7885-b8ab-49f0-628a-a44f48c481b1-2cfc/"> View our initial high fidelity prototype</a></li>
+<li><a href = "https://xd.adobe.com/view/91e34a63-01b3-42d0-7b65-82af686d62fa-e7d2/"> View our final high fidelity prototype</a></li>
 <li><a href = "https://christianmok.github.io/HealthEat/Phase four/CPSC481 Stage 4 presentation.pdf"> View our presentation(PDF)</a></li>
 <li><a href = "https://christianmok.github.io/HealthEat/Phase four/Heuristic Evaluation Report.pdf"> View our Heuristic Evaluation Report (PDF)</a></li>
 <li> Here is the High Fidelity prototype video<br/>
@@ -129,7 +129,7 @@ When Nick opens HealthEat and goes to the ‘Suggested Recipes’ section there 
 
 ## Final prototype and Presentation <a name = "final_prototype_and_presentation"></a>
 <ul>
-<li><a href = "https://xd.adobe.com/view/91e34a63-01b3-42d0-7b65-82af686d62fa-e7d2/"> View our final high fidelity prototyp e</a></li>
+<li><a href = "https://xd.adobe.com/view/91e34a63-01b3-42d0-7b65-82af686d62fa-e7d2/"> View our final high fidelity prototype</a></li>
 <li><a href = "https://christianmok.github.io/HealthEat/Phase four/CPSC481 Stage 4 presentation.pdf"> View our presentation(PDF)</a></li>
 <li><a href = "https://christianmok.github.io/HealthEat/Phase four/Heuristic Evaluation Report.pdf"> View our Final Report (PDF)</a></li>
 </ul>
