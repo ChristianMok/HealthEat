@@ -18,10 +18,10 @@
     5. [Task 5](#task5)
     6. [Task 6](#task6)
 5. [Sketching](#sketching)
-6.[Low Fidelity Prototype](#low_fidelity_prototype)
-7.[High Fidelity Prototype](#high_fidelity_prototype)
-8.[Final prototype and Presentation](#final_prototype_and_presentation)
-9.[Bibliography](#bibliography)
+6. [Low Fidelity Prototype](#low_fidelity_prototype)
+7. [High Fidelity Prototype](#high_fidelity_prototype)
+8. [Final prototype and Presentation](#final_prototype_and_presentation)
+9. [Bibliography](#bibliography)
 
 
 ## Project idea <a name = "project_idea"></a>
