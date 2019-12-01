@@ -179,7 +179,7 @@ When Nick opens HealthEat and goes to the ‘Suggested Recipes’ section there 
 <li><a href = "https://christianmok.github.io/HealthEat/Phase three/HealthEat-softcopy.pdf"> View our low fidelity prototype (PDF)</a></li>
 <li><a href = "https://christianmok.github.io/HealthEat/Phase three/Stage 3 Deliverable Powerpoint.pdf"> View our presentation(PDF)</a></li>
 <li> View the Low Fidelity prototype video<br/>
-	<video width "500" height = "667" controls>
+	<video width = "500" height = "667" controls>
 	<source src = "https://christianmok.github.io/HealthEat/Phase three/video.mp4" type = "video/mp4">
 	</video></li>
 </ul>
