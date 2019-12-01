@@ -171,7 +171,7 @@ On a monday evening Nick goes to the Superstore near his house and purchases a v
 When Nick opens HealthEat and goes to the ‘Suggested Recipes’ section there is a list of recipes he could make with what is in his fridge with the recipes using broccoli at the top. Nick chooses the first recipe, chicken broccoli stir fry, and starts cooking! Nick then rates the recipe as 5 stars since it was easy to make, healthy and tasted delicious.
 
 ## Sketching<a name = "sketching"></a>
-<a herf = "https://christianmok.github.io/HealthEat/AllSketchImages-PNG.pdf"> View our sketches(PDF)</a>
+<a href = "https://christianmok.github.io/HealthEat/AllSketchImages-PNG.pdf"> View our sketches(PDF)</a>
 
 
 
