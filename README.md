@@ -126,9 +126,9 @@ When Nick opens HealthEat and goes to the ‘Suggested Recipes’ section there 
 ## Final prototype and Presentation <a name = "final_prototype_and_presentation"></a>
 The final version of the high fidelity prototype is only centered in achieving a more streamlined version of the previous HiFi prototype that certainly looked as an outdated app. In case functionality is needed to be tested remind that the firts HiFi prototype is the more complete since the second one focuses more in the appearance
 <ul>
-<li><a href = "https://xd.adobe.com/view/91e34a63-01b3-42d0-7b65-82af686d62fa-e7d2/"> View our final high fidelity prototype</a></li>
-<li><a href = "https://christianmok.github.io/HealthEat/Phase four/CPSC481 Stage 4 presentation.pdf"> View our presentation(PDF)</a></li>
-<li><a href = "https://christianmok.github.io/HealthEat/Phase four/Heuristic Evaluation Report.pdf"> View our Final Report (PDF)</a></li>
+<li><a href = "https://xd.adobe.com/view/626eede2-f454-4b80-479a-a15a81fc00a2-145f/"> View our final high fidelity prototype</a></li>
+<li><a href = "https://christianmok.github.io/HealthEat/Phase five/Phase 5 Presentation.pdf"> View our presentation(PDF)</a></li>
+<li><a href = "https://christianmok.github.io/HealthEat/Phase five/CPSC 481 Stage 5 - Final Report.pdf"> View our Final Report (PDF)</a></li>
 </ul>
 
 ## Bibliography <a name = "bibliography"></a>
